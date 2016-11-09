@@ -6,7 +6,7 @@
 
 # To enable all, uncomment following line
 # export DEB_BUILD_MAINT_OPTIONS = hardening=+all
-export DEB_CFLAGS_MAINT_APPEND  = -Wall -pedantic -ffloat-store
+export DEB_CFLAGS_MAINT_APPEND  = -Wall -pedantic -ffloat-store -fPIC
 export DEB_LDFLAGS_MAINT_APPEND = -Wl,--as-needed
 
 # for architecture dependent variables and changelog vars

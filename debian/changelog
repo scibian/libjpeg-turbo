@@ -1,3 +1,9 @@
+libjpeg-turbo (1:1.3.1-12+c9+1) calibre9; urgency=medium
+
+  * Rebuild with -fPIC, this is needed by virtualgl.
+
+ -- Ana Guerrero <ana-externe.guerrero@edf.fr>  Wed, 09 Nov 2016 16:12:34 +0100
+
 libjpeg-turbo (1:1.3.1-12) unstable; urgency=medium
 
   * No change upload to bump version in unstable
