@@ -17,6 +17,7 @@ Copyright:
  2012-2013 Debian TigerVNC Packaging Team <pkg-tigervnc-devel@lists.alioth.debian.org>
  2011-2012 Canonical Ltd.
  2011-2012 Linaro Inc.
+ 2017 Scibian Project <legal@scibian.org>
 License: BSD-3
 
 Files: debian/extras/*

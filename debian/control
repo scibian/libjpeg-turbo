@@ -1,15 +1,15 @@
 Source: libjpeg-turbo
 Priority: optional
 Section: graphics
-Maintainer: Ondřej Surý <ondrej@debian.org>
+Maintainer: Scibian Project <packaging@scibian.org>
 Uploaders: Mike Gabriel <sunweaver@debian.org>
 Build-Depends: debhelper (>= 9),
 	       dh-autoreconf,
 	       nasm [any-amd64 any-i386],
 Standards-Version: 3.9.6
 Homepage: http://www.libjpeg-turbo.org/
-Vcs-Git: git://anonscm.debian.org/collab-maint/libjpeg-turbo.git
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/libjpeg-turbo.git
+Vcs-Git: https://github.com/scibian/libjpeg-turbo.git
+Vcs-Browser: https://github.com/scibian/libjpeg-turbo
 
 Package: libjpeg-dev
 Architecture: all
